@@ -20,7 +20,7 @@ We have a public [roadmap](https://github.com/orgs/ScuffleTV/projects/1/views/6)
 
 ### 📖 Contributing
 
-If you are interested in contributing, you can reach out to us on our [Discord](https://scuffle.tv/discord) or create a [issue](https://github.com/ScuffleTV/scuffle/issues).
+If you are interested in contributing, you can reach out to us on our [Discord](https://discord.gg/scuffle) or create a [issue](https://github.com/ScuffleTV/scuffle/issues).
 
 We are very friendly and we are more than happy to teach you and help you get started.
 
