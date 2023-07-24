@@ -16,7 +16,7 @@ We held a [conference](https://www.youtube.com/watch?v=QvQpMRkzoVM&t=598s) in 20
 
 We are currently in the process of building the platform! We are looking for contributors to help us and we are always open to new ideas.
 
-We have a public [roadmap](https://github.com/orgs/ScuffleTV/projects/1/views/6) and [kanban board](https://github.com/orgs/ScuffleTV/projects/1/views/1) where we update the statuses of the projects and tickets we are working on.
+We have a public [roadmap](https://github.com/orgs/ScuffleTV/projects/1/views/11) and [kanban board](https://github.com/orgs/ScuffleTV/projects/1/views/14) where we update the statuses of the projects and tickets we are working on.
 
 ### 📖 Contributing
 
