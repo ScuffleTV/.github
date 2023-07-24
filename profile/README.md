@@ -4,7 +4,7 @@ Scuffle is an open-source live streaming platform.
 
 ### https://scuffle.tv
 
-<br>
+We also have a [dev blog](https://bytes.scuffle.tv) where we will be posting updates.
 
 ### 📺 What is Scuffle?
 
