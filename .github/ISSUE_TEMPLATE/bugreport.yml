@@ -1,0 +1,31 @@
+name: Bug Report
+description: File a bug report here
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### **Thank you for taking the time to fill out this Bug Report!**
+        Please provide as much information as possible. This will help us resolve the Bug quickly and accurately.
+        If you know which application this bug is for, please add the appropriate label to this issue.
+  - type: markdown
+    attributes:
+      value: ---
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What seems to be the problem?
+      description: |
+        A clear and concise description of what needs to be fixed.
+        *Make sure there are no misunderstandings here. It would be best if you have a video/screenshot for us.*
+        Include any relevant information about the environment you are using & steps for us to replicate the bug.
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell

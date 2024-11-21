@@ -25,3 +25,10 @@ If you find a security vulnerability, please read the [Security Policy](SECURITY
 ## Contact
 
 If you have any questions, please contact us at [opensource@scuffle.tv](mailto:opensource@scuffle.tv)
+
+## License
+
+This project is licensed under the [MIT](LICENSE.MIT) or [Apache-2.0](LICENSE.Apache-2.0) license.
+You can choose between one of them if you use this work.
+
+`SPDX-License-Identifier: MIT OR Apache-2.0`
