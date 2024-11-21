@@ -1,22 +1,16 @@
 ## Hey, welcome to Scuffle 👋
 
-Scuffle is an open-source live streaming platform.
+### Development Blog
 
-### https://scuffle.tv
-
-We also have a [dev blog](https://bytes.scuffle.tv) where we will be posting updates.
+We also have a [dev blog](https://bytes.scuffle.tv) where we will be posting updates about our progress.
 
 ### 📺 What is Scuffle?
 
-Scuffle is a live streaming platform that is built from the ground up. We are building a platform that is entirely open-source and transparent in our actions designed to be community driven.
-
-We held a [conference](https://www.youtube.com/watch?v=QvQpMRkzoVM&t=598s) in 2022 going over some of the features that we are aiming to build out this year.
+Scuffle is aiming to be a fully open-source cloud provider. With our initial offering being video streaming. For more information check out our website at [scuffle.tv](https://scuffle.tv).
 
 ### 👀 Project status
 
-We are currently in the process of building the platform! We are looking for contributors to help us and we are always open to new ideas.
-
-We have a public [roadmap](https://github.com/orgs/ScuffleTV/projects/1/views/11) and [kanban board](https://github.com/orgs/ScuffleTV/projects/1/views/14) where we update the statuses of the projects and tickets we are working on.
+We have a public [jira issue tracker](https://jira.scuffle.tv) where we track our work.
 
 ### 📖 Contributing
 
